@@ -1,4 +1,4 @@
-# R Programming
+# Rational Functional Tester
 
 This is the class repository for the March 2024 Rational Functional Tester Class
 
